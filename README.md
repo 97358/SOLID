@@ -1,6 +1,6 @@
 # Princípios do SOLID
 
-Demonstração da aplicabilidade dos princípios do SOLID, demostrando um exemplo de violação e solução de cada princípio SRP, OCP, LSP, ISP e DIP.
+Demonstração da aplicabilidade dos princípios SOLID por meio de exemplos que ilustram tanto a violação quanto a solução de cada um de seus princípios: SRP (Princípio da Responsabilidade Única), OCP (Princípio do Aberto-Fechado), LSP (Princípio da Substituição de Liskov), ISP (Princípio da Segregação de Interfaces) e DIP (Princípio da Inversão de Dependências).
 
 ## 🛠️ Contrução
 
