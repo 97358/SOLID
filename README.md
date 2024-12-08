@@ -5,7 +5,8 @@ Demonstração da aplicabilidade dos princípios do SOLID por meio de exemplos q
 ## 🛠️ Contrução
 
 * [Visual Studio Community 2022](https://visualstudio.microsoft.com/pt-br/downloads/) - O framework web usado
-* [.NET 6.0](https://maven.apache.org/) - Gerente de Dependência
+* [.NET 6.0] - Gerente de Dependência
+* [System.Data.SqlClient] - Gerente de Dependência
 
 ## ⚠️ Atenção
 
