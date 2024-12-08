@@ -6,4 +6,6 @@
 
 ## 🛠️ Construído com
 
-⚠️ **Atenção:** Destinado exclusivamente para fins de estudo.
+## ⚠️ Atenção: 
+
+Destinado exclusivamente para fins de estudo.
