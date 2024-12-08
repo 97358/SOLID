@@ -1,4 +1,4 @@
-# Título do projeto
+# Princípios do SOLID
 
  Apresentação de uma aplicação que ilustra a aplicabilidade do SOLID, com foco na aplicação do SRP, OCP, LSP, ISP e DIP.
 
