@@ -5,8 +5,8 @@ Demonstração da aplicabilidade dos princípios do SOLID por meio de exemplos q
 ## 🛠️ Contrução
 
 * [Visual Studio Community 2022](https://visualstudio.microsoft.com/pt-br/downloads/) - O framework web usado
-* [.NET 6.0] - Foi utilizada essa versão do .NET como plataforma de desenvolvimento da Microsoft, usada para criar e executar aplicações multiplataforma, como aplicativos web, desktop, móveis, jogos e serviços em nuvem. 
-* [System.Data.SqlClient] - Foi utilizado esse namespace no .NET Framework para acessar e manipular dados em um banco de dados SQL Server.
+* .NET 6.0 - Foi utilizada essa versão do .NET como plataforma de desenvolvimento da Microsoft, usada para criar e executar aplicações multiplataforma, como aplicativos web, desktop, móveis, jogos e serviços em nuvem. 
+* System.Data.SqlClient - Foi utilizado esse namespace no .NET Framework para acessar e manipular dados em um banco de dados SQL Server.
 
 ## ⚠️ Atenção
 
